@@ -15,3 +15,9 @@
 
 # Tiles 
 /data/post1500AverageCalories/
+
+# Old Tif files
+/data/*rgb*
+/data/*en*.tif
+/data/*tif
+*HMI*
