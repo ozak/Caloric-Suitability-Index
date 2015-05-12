@@ -10,23 +10,23 @@ Download Options for Caloric Suitability Indices
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
-* `All files (zip) <../data/CaloricSuitabilityIndex.zip>`_
+* `All files (zip) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ>`_
 
 * Pre-1500CE:
-    * `Average Calories <../data/pre1500AverageCalories.tif>`_
-    * `Average Calories (No Zeros) <../data/pre1500AverageCaloriesNo0.tif>`_
-    * `Total Calories <../data/pre1500TotalCalories.tif>`_
-    * `Total Calories (No Zeros) <../data/pre1500TotalCaloriesNo0.tif>`_
-    * `Maximum Calories <../data/pre1500OptCalories.tif>`_
-    * `Maximum Calories (No Zeros) <../data/pre1500OptCaloriesNo0.tif>`_
+    * `Average Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVeEhsRmdRWkFJX2M>`_
+    * `Average Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVcHgxa1EyOEpURUk>`_
+    * `Total Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVMDNwWkZIMTltb3c>`_
+    * `Total Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVb29EZ3Jvem1Ed1k>`_
+    * `Maximum Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2dDUm5fU2lMN2c>`_
+    * `Maximum Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVUzVDTXBST3d4YlE>`_
 
 * Post-1500CE:
-    * `Average Calories <../data/post1500AverageCalories.tif>`_
-    * `Average Calories (No Zeros) <../data/post1500AverageCaloriesNo0.tif>`_
-    * `Total Calories <../data/post1500TotalCalories.tif>`_
-    * `Total Calories (No Zeros) <../data/post1500TotalCaloriesNo0.tif>`_
-    * `Maximum Calories <../data/post1500OptCalories.tif>`_
-    * `Maximum Calories (No Zeros) <../data/post1500OptCaloriesNo0.tif>`_
+    * `Average Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVT05GNGtaZk13S2M>`_
+    * `Average Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVcHVJcmgtb09FTXM>`_
+    * `Total Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVRmZ2bmZTbS1lajg>`_
+    * `Total Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVb3ZxZmZrb0ZpTXc>`_
+    * `Maximum Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2ZDemhYd1hqZms>`_
+    * `Maximum Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVajhjbVcyakFYMHc>`_
 
 =======================
 Additional Information
@@ -69,15 +69,13 @@ Find a bug? Report it via github issues by providing
 |Brown|_
 
 
-.. |SMU| image:: ./pics/Logo-SMU-World.gif
+.. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Logo-SMU-World.gif
                     :height: 100px
                     :width: 200 px
-                    :align: center
 .. _SMU: http://omerozak.com
 
-.. |Brown| image:: ./pics/brown-logo.png
+.. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/brown-logo.png
                     :height: 100px
                     :width: 200 px
                     :scale: 50 %
-                    :align: center
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/

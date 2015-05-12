@@ -19,5 +19,5 @@
 # Old Tif files
 /data/*rgb*
 /data/*en*.tif
-/data/*tif
+
 *HMI*
