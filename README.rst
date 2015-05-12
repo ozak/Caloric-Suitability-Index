@@ -69,13 +69,13 @@ Find a bug? Report it via github issues by providing
 |Brown|_
 
 
-.. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Logo-SMU-World.gif
+.. |SMU| image:: ./pics/Logo-SMU-World.gif
                     :height: 100px
                     :width: 200 px
                     :align: center
 .. _SMU: http://omerozak.com
 
-.. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/brown-logo.png
+.. |Brown| image:: ./pics/brown-logo.png
                     :height: 100px
                     :width: 200 px
                     :scale: 50 %
