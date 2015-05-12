@@ -1,4 +1,5 @@
 |SMU|_ 
+
 Caloric Suitability Index
 ===========
 
@@ -7,9 +8,7 @@ Caloric Suitability Index
 |OdedGalor|_
 |Brown|_
 
-External hyperlinks, like `Python <http://www.python.org/>`_.
-
-The **Caloric Suitability Indices** measure the caloric production potential based on crop agriculture for the Pre-1500CE and Post-1500CE eras as constructed by `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_. The data can be used to assess or account for the exogenous effect of agricultural potential on various economic and social outcomes. An [IPython notebook]() is included to show how it can be used and also compares it with another measure of agricultural suitability. The data is provided as a service to the academic research community (see license for permitted uses). 
+The **Caloric Suitability Indices** measure the caloric production potential based on crop agriculture for the Pre-1500CE and Post-1500CE eras as constructed by `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_. The data can be used to assess or account for the exogenous effect of agricultural potential on various economic and social outcomes. An `IPython notebook <>`_ is included to show how it can be used and also compares it with another measure of agricultural suitability. The data is provided as a service to the academic research community (see license for permitted uses). 
 
 Download Options for Caloric Suitability Indices
 =========================================
@@ -71,6 +70,9 @@ Find a bug? Report it via github issues by providing
 - information on your environment: versions of python, gdal and numpy and system memory
 
 .. |ÖmerÖzak| image:: ./pics/escher2-990x1804.jpg
+                    :height: 100px
+                    :width: 200 px
+                    :scale: 50 %
 .. _ÖmerÖzak: http://omerozak.com
 
 .. |SMU| image:: ./pics/Logo-SMU-World.gif
@@ -80,5 +82,8 @@ Find a bug? Report it via github issues by providing
 .. _OdedGalor: http://www.econ.brown.edu/fac/Oded_Galor/
 
 .. |Brown| image:: ./pics/brown-logo.png
+                    :height: 100px
+                    :width: 200 px
+                    :scale: 50 %
 .. _Brown: https://www.brown.edu/
 
