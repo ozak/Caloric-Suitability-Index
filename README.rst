@@ -65,8 +65,6 @@ Find a bug? Report it via github issues by providing
 - python code or command to reproduce the error
 - information on your environment: versions of python, gdal and numpy and system memory
 
-.. class:: center
-
 |SMU|_ 
 |Brown|_
 
