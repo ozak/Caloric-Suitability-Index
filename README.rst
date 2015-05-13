@@ -76,7 +76,7 @@ Find a bug? Report it via github issues by providing
 .. _SMU: http://omerozak.com
 
 .. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/brown-logo.png
-                    :height: 100px
-                    :width: 200 px
+                    :height: 10px
+                    :width: 20 px
                     :scale: 25 %
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
