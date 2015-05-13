@@ -72,10 +72,11 @@ Find a bug? Report it via github issues by providing
 .. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Logo-SMU-World.gif
                     :height: 100px
                     :width: 200 px
+                    :scale: 25 %
 .. _SMU: http://omerozak.com
 
 .. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/brown-logo.png
                     :height: 100px
                     :width: 200 px
-                    :scale: 20 %
+                    :scale: 25 %
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
