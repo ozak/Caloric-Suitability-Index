@@ -65,18 +65,3 @@ Find a bug? Report it via github issues by providing
 - python code or command to reproduce the error
 - information on your environment: versions of python, gdal and numpy and system memory
 
-|SMU|_ 
-|Brown|_
-
-
-.. |SMU| image:: ./pics/Logo-SMU-World.gif
-                    :height: 100px
-                    :width: 200 px
-                    :scale: 25 %
-.. _SMU: http://omerozak.com
-
-.. |Brown| image:: ./pics/brown-logo.png
-                    :height: 100px
-                    :width: 200 px
-                    :scale: 25 %
-.. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
