@@ -15,16 +15,12 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
 * Pre-1500CE:
     * `Average Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVeEhsRmdRWkFJX2M>`_
     * `Average Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVcHgxa1EyOEpURUk>`_
-    * `Total Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVMDNwWkZIMTltb3c>`_
-    * `Total Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVb29EZ3Jvem1Ed1k>`_
     * `Maximum Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2dDUm5fU2lMN2c>`_
     * `Maximum Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVUzVDTXBST3d4YlE>`_
 
 * Post-1500CE:
     * `Average Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVT05GNGtaZk13S2M>`_
     * `Average Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVcHVJcmgtb09FTXM>`_
-    * `Total Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVRmZ2bmZTbS1lajg>`_
-    * `Total Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVb3ZxZmZrb0ZpTXc>`_
     * `Maximum Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2ZDemhYd1hqZms>`_
     * `Maximum Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVajhjbVcyakFYMHc>`_
 
@@ -32,7 +28,7 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
 Additional Information
 =======================
 
-`Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ introduce novel measures of potential crop yield measured in calories for the pre-industrial and modern eras. In particular, for each cell of size $5'\times5'$ in the world, they estimate the maximum caloric yield and the growth cycle attainable given the set of crops available before and after the Columbian Exchange. Using the same methodology, additional Caloric Suitability Indices (CSI) are introduced here based on the average and total caloric yields attainable given the crops available before and after the Columbian Exchange.
+`Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ introduce novel measures of potential crop yield measured in calories for the pre-industrial and modern eras. In particular, for each cell of size $5'\times5'$ in the world, they estimate the maximum caloric yield and the growth cycle attainable given the set of crops available before and after the Columbian Exchange. Using the same methodology, additional Caloric Suitability Indices (CSI) are introduced here based on the average and maximum caloric yields attainable given the crops available before and after the Columbian Exchange.
 
 These historical measures are constructed based on data from the `Global Agro-Ecological Zones (GAEZ) <http://http://gaez.fao.org/>`_ project of the Food and Agriculture Organization (FAO). The GAEZ project supplies global estimates of crop yield and crop growth cycle for 48 crops in grids with cells size of $5'\times5'$ (i.e., approximately 100 km$^2$). 
 
@@ -46,9 +42,9 @@ The FAO dataset provides for each cell in the agro-climatic grid the potential y
 
 In order to better capture the nutritional differences across crops, and thus to ensure comparability in the measure of crop yield, the yield of each crop in the GAEZ data (measured in tons, per hectare, per year) is converted into caloric return (measured in millions of kilo calories, per hectare, per year). This conversion is based on the caloric content of crops, as provided by the `United States Department of Agriculture Nutrient Database for Standard Reference <http://www.ars.usda.gov/Services/docs.htm?docid=23635>`_. Using the estimates of the caloric content for each crop in the GAEZ data (measured in kilo calories per 1g), a comparable measure of crop yield (in millions of kilo calories, per hectare, per year) is constructed for each crop. 
 
-Based on these estimates `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ construct the maximum potential caloric yield estimate they use in their paper. Here varios additional indices of caloric suitability are constructed and presented. First, for each cell the average caloric yield across all available crops pre- and post-1500CE is computed. Second, for each cell the total caloric yield across all available crops pre- and post-1500CE is computed. Finally, the analysis assigns to each cell the highest potential yield among the available crops pre- and post-1500CE. Additionally, for each caloric index raster the same index is constructed including and excluding cells where no calories can be produced or for averages the crops without caloric output are excluded. 
+Based on these estimates `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ construct the maximum potential caloric yield estimate they use in their paper. Here varios additional indices of caloric suitability are constructed and presented. First, for each cell the average caloric yield across all available crops pre- and post-1500CE is computed. Second, the analysis assigns to each cell the highest potential yield among the available crops pre- and post-1500CE. Additionally, for each caloric index raster the same index is constructed including and excluding cells where no calories can be produced or for averages the crops without caloric output are excluded. 
 
-Thus, the research constructs for each type of index, namely *Average*, *Total* and *Maximal* Caloric Suitability, four sets of grids: 
+Thus, the research constructs for each type of index, namely *Average* and *Maximal* Caloric Suitability, four sets of grids: 
     1. Caloric Suitability pre-1500CE (without zeros)
     2. Caloric Suitability pre-1500CE (with zeros)
     3. Caloric Suitability post-1500CE (without zeros)
