@@ -31,6 +31,6 @@
 **/*old*
 **/*Copy*.ipynb
 **/*v*.html
-!**/*suit.tif
-!**/*fac*.tif
+!**suit.tif
+!**fac*.tif
 **/checkpoints*
