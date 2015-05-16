@@ -27,5 +27,15 @@
 *log
 *tex
 *old*
-*Copy*
+*Copy*.ipynb
 *v*.html
+
+/notebooks/*tif
+/notebooks/*zip
+/notebooks/*HMI*
+/notebooks/*aux
+/notebooks/*log
+/notebooks/*tex
+/notebooks/*old*
+/notebooks/*Copy*.ipynb
+/notebooks/*v*.html
