@@ -33,4 +33,4 @@
 **/*v*.html
 !**suit.tif
 !**fac*.tif
-**/checkpoints*
+**checkpoint*
