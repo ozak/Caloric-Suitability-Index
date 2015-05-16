@@ -20,11 +20,13 @@
 /data/*rgb*
 /data/*en*.tif
 
-*tif
-*zip
+*.tif
+*.zip
 *HMI*
-*aux
-*log
+*.aux
+*.log
+*.out
+*.gz
 *tex
 *old*
 *Copy*.ipynb
