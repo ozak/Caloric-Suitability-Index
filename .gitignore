@@ -32,3 +32,4 @@
 **/*Copy*.ipynb
 **/*v*.html
 !**/*suit.tif
+**/checkpoints*
