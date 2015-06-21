@@ -2,6 +2,18 @@
 Caloric Suitability Index
 =========================
 
+The suitability of land for agriculture [(Rammankutty, Foley, Norman, and McSweeney, 2001)](http://www.sage.wisc.edu/atlas/maps.php?datasetid=19&includerelatedlinks=1&dataset=19) has become a standard control for the effect of geographical characteristics on comparative economic development.  This measure, however, is rather crude and it does not capture the large variation in the potential caloric yield across equally suitable land.  In particular, geographical regions that according to this measure are comparable in terms of their suitability for agriculture may differ significantly in their potential caloric output per hectare per year, reflecting the fact that land that is suitable for agriculture is not necessarily suitable for the most productive crops in terms of their caloric return.
+
+In light of the importance of pre-industrial population density in the subsequent course of economic development, and the instrumental role played by caloric yield in sustaining and supporting population growth, it is rather apparent that this commonly used index is not well designed for properly capturing the effect of the suitability of land for agriculture on economic development.
+
+[Galor and Özak (2014)](https://ideas.repec.org/p/smu/ecowpa/1407.html) rectify this deficiency and introduce a novel index of land suitability:  “The Caloric Suitability Indices” (CSI) that capture the variation in potential crop yield across the globe, as measured in calories per hectare per year.  Moreover, in light of the expansion in the set of crops that are available for cultivation in the course of the Columbian Exchange, the CSI indices provide a distinct measure for caloric suitability for the pre-1500 and the post 1500 era.  
+The CSI indices provide fours estimates of caloric suitability for each cell of size 5′× 5 in the world:
+
+1.	The maximum potential caloric yield attainable given the set of crops that are suitable for cultivation in the pre-1500 period.
+2.	The maximum potential caloric yield attainable, given the set of crops that are suitable for cultivation in the post-1500 period.
+3.	The average potential yields within each cell attainable given the set of crops that are suitable for cultivation in the pre-1500 period.
+4.	The average potential yields within each cell attainable given the set of crops that are suitable for cultivation in the post-1500 period.
+
 The **Caloric Suitability Indices** measure the caloric production potential based on agriculture for the Pre-1500CE and Post-1500CE eras as constructed by `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_. The data can be used to assess or account for the exogenous effect of agricultural potential on various economic and social outcomes. An `IPython notebook <https://github.com/ozak/Caloric-Suitability-Index/blob/master/notebooks/Caloric%20and%20Agricultural%20Suitability.ipynb>`_ is included to show how it can be used and also compares it with another measure of agricultural suitability. The data is provided as a service to the academic research community (see license for permitted uses). 
 
 =================================================
