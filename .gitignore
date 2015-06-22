@@ -34,3 +34,7 @@
 !**suit.tif
 !**fac*.tif
 **checkpoint*
+**/*bbl
+**/*blg
+**/*latex*
+**/*fls
