@@ -48,6 +48,8 @@ If you use the data, please cite:
 
 `Oded Galor and Ömer Özak, 2014. "The Agricultural Origins of Time Preference," NBER Working Papers 20438, National Bureau of Economic Research, Inc. <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_.
 
+`Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper. <http://papers.ssrn.com/abstract=2625180>`_.
+
 =======================
 Additional Information
 =======================
