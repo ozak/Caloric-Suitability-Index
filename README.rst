@@ -40,6 +40,10 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
     * `Stata Format <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVMXlCZHo4UnBGbFU>`_
     * `CSV Format <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVbl9oZWpGcTdLclU>`_
 
+* US State-level Data:
+    * `Stata Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta>`_
+    * `CSV Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv>`_
+
 If you use the data, please cite: 
 
 `Oded Galor and Ömer Özak, 2014. "The Agricultural Origins of Time Preference," NBER Working Papers 20438, National Bureau of Economic Research, Inc. <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_.
