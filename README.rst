@@ -7,7 +7,7 @@ The suitability of land for agriculture `(Rammankutty, Foley, Norman, and McSwee
 In light of the importance of pre-industrial population density in the subsequent course of economic development, and the instrumental role played by caloric yield in sustaining and supporting population growth, it is rather apparent that this commonly used index is not well designed for properly capturing the effect of the suitability of land for agriculture on economic development.
 
 `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ rectify this deficiency and introduce a novel index of land suitability:  “The Caloric Suitability Indices” (CSI) that capture the variation in potential crop yield across the globe, as measured in calories per hectare per year.  Moreover, in light of the expansion in the set of crops that are available for cultivation in the course of the Columbian Exchange, the CSI indices provide a distinct measure for caloric suitability for the pre-1500 and the post 1500 era.  
-The CSI indices provide fours estimates of caloric suitability for each cell of size 5′× 5 in the world:
+The CSI indices provide fours estimates of caloric suitability for each cell of size 5′× 5´ in the world:
 
 1.	The maximum potential caloric yield attainable given the set of crops that are suitable for cultivation in the pre-1500 period.
 2.	The maximum potential caloric yield attainable, given the set of crops that are suitable for cultivation in the post-1500 period.
@@ -54,9 +54,9 @@ If you use the data, please cite:
 Additional Information
 =======================
 
-`Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ introduce novel measures of potential crop yield measured in calories for the pre-industrial and modern eras. In particular, for each cell of size :math:`5'\times5'` in the world, they estimate the maximum caloric yield and the growth cycle attainable given the set of crops available before and after the Columbian Exchange. Using the same methodology, additional Caloric Suitability Indices (CSI) are introduced here based on the average and maximum caloric yields attainable given the crops available before and after the Columbian Exchange.
+`Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ introduce novel measures of potential crop yield measured in calories for the pre-industrial and modern eras. In particular, for each cell of size 5′× 5´ in the world, they estimate the maximum caloric yield and the growth cycle attainable given the set of crops available before and after the Columbian Exchange. Using the same methodology, additional Caloric Suitability Indices (CSI) are introduced here based on the average and maximum caloric yields attainable given the crops available before and after the Columbian Exchange.
 
-These historical measures are constructed based on data from the `Global Agro-Ecological Zones (GAEZ) <http://http://gaez.fao.org/>`_ project of the Food and Agriculture Organization (FAO). The GAEZ project supplies global estimates of crop yield and crop growth cycle for 48 crops in grids with cells size of :math:`5' \times 5'` (i.e., approximately :math:`100 km^2`). 
+These historical measures are constructed based on data from the `Global Agro-Ecological Zones (GAEZ) <http://http://gaez.fao.org/>`_ project of the Food and Agriculture Organization (FAO). The GAEZ project supplies global estimates of crop yield and crop growth cycle for 48 crops in grids with cells size of 5′× 5´ (i.e., approximately :math:`100 km^2`). 
 
 The crops available are alfalfa, banana, barley, buckwheat, cabbage, cacao, carrot, cassava, chickpea, citrus, coconut, coffee, cotton, cowpea, dry pea, flax, foxtail millet, greengram, groundnuts, indigo rice, maize, oat, oilpalm, olive, onion, palm heart, pearl millet, phaseolus bean, pigeon pea, rye, sorghum, soybean, sunflower, sweet potato, tea, tomato, wetland rice, wheat, spring wheat, winter wheat, white potato, yams, giant yams, subtropical sorghum, tropical highland sorghum, tropical lowland, sorghum, white yams. 
 
