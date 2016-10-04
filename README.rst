@@ -1,5 +1,6 @@
 =========================
 Caloric Suitability Index
++++++++++++++++++++++++++
 =========================
 
 The suitability of land for agriculture `(Rammankutty, Foley, Norman, and McSweeney, 2001) <http://www.sage.wisc.edu/atlas/maps.php?datasetid=19&includerelatedlinks=1&dataset=19>`_ has become a standard control for the effect of geographical characteristics on comparative economic development.  This measure, however, is rather crude and it does not capture the large variation in the potential caloric yield across equally suitable land.  In particular, geographical regions that according to this measure are comparable in terms of their suitability for agriculture may differ significantly in their potential caloric output per hectare per year, reflecting the fact that land that is suitable for agriculture is not necessarily suitable for the most productive crops in terms of their caloric return.
@@ -18,11 +19,13 @@ The **Caloric Suitability Indices** measure the caloric production potential bas
 
 =================================================
 Download Options for Caloric Suitability Indices
++++++++++++++++++++++++++++++++++++++++++++++++++
 =================================================
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
 **Average and Maximum Caloric Suitability**
+=================================================
 
 * `All files (zip) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ>`_: The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally it includes rasters for the changes in CSI due to the Columbian Exchange.
 
@@ -47,12 +50,14 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
     * `CSV Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv>`_
 
 **Plow Potential based on Caloric Suitability**
+=================================================
 
 * `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVVVVuVVEwVEh1VzQ>`_: Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
 
 **Caloric Suitability for Individual Crops**
+=================================================
 
-* `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVS1I3UXVURExCNjA>`_: Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
+* `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVS1I3UXVURExCNjA>`_: Archive contains data on caloric suitability for each crop under low, medium and high input levels, as well as under rain fed and irrigation.
 
 If you use the data, please cite: 
 
