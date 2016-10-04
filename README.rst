@@ -64,9 +64,9 @@ If you use the data, please cite:
 
 `Oded Galor and Ömer Özak, 2016. "The Agricultural Origins of Time Preference," American Economic Review, 2016, 106(10): 3064–3103 <http://dx.doi.org/10.1257/aer.20150020>`_.
 
-`Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper. <http://papers.ssrn.com/abstract=2625180>`_.
+`Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper <http://papers.ssrn.com/abstract=2625180>`_.
 
-`Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016. <http://ssrn.com/abstract=2820889>`_.
+`Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016 <http://ssrn.com/abstract=2820889>`_.
 
 ======================
 Additional Information
