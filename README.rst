@@ -22,7 +22,9 @@ Download Options for Caloric Suitability Indices
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
-* `All files (zip) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ>`_
+**Average and Maximum Caloric Suitability**
+
+* `All files (zip) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ>`_: The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally it includes rasters for the changes in CSI due to the Columbian Exchange.
 
 * Pre-1500CE:
     * `Average Calories <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVeEhsRmdRWkFJX2M>`_
@@ -44,11 +46,21 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
     * `Stata Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta>`_
     * `CSV Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv>`_
 
+**Plow Potential based on Caloric Suitability**
+
+* `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVVVVuVVEwVEh1VzQ>`_: Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
+
+**Caloric Suitability for Individual Crops**
+
+* `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVS1I3UXVURExCNjA>`_: Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
+
 If you use the data, please cite: 
 
-`Oded Galor and Ömer Özak, 2014. "The Agricultural Origins of Time Preference," NBER Working Papers 20438, National Bureau of Economic Research, Inc. <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_.
+`Oded Galor and Ömer Özak, 2016. "The Agricultural Origins of Time Preference," American Economic Review, 2016, 106(10): 3064–3103 <http://dx.doi.org/10.1257/aer.20150020>`_.
 
 `Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper. <http://papers.ssrn.com/abstract=2625180>`_.
+
+`Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016. <http://ssrn.com/abstract=2820889>`_.
 
 =======================
 Additional Information
