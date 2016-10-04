@@ -22,6 +22,7 @@ Download Options for Caloric Suitability Indices
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
+=================================================
 **Average and Maximum Caloric Suitability**
 =================================================
 
@@ -47,11 +48,13 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
     * `Stata Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta>`_
     * `CSV Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv>`_
 
+=================================================
 **Plow Potential based on Caloric Suitability**
 =================================================
 
 * `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVVVVuVVEwVEh1VzQ>`_: Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
 
+=================================================
 **Caloric Suitability for Individual Crops**
 =================================================
 
