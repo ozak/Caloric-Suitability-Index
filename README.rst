@@ -1,7 +1,6 @@
 =========================
-+++++++++++++++++++++++++
 Caloric Suitability Index
-+++++++++++++++++++++++++
+=========================
 
 The suitability of land for agriculture `(Rammankutty, Foley, Norman, and McSweeney, 2001) <http://www.sage.wisc.edu/atlas/maps.php?datasetid=19&includerelatedlinks=1&dataset=19>`_ has become a standard control for the effect of geographical characteristics on comparative economic development.  This measure, however, is rather crude and it does not capture the large variation in the potential caloric yield across equally suitable land.  In particular, geographical regions that according to this measure are comparable in terms of their suitability for agriculture may differ significantly in their potential caloric output per hectare per year, reflecting the fact that land that is suitable for agriculture is not necessarily suitable for the most productive crops in terms of their caloric return.
 
@@ -19,7 +18,6 @@ The **Caloric Suitability Indices** measure the caloric production potential bas
 
 =================================================
 Download Options for Caloric Suitability Indices
-+++++++++++++++++++++++++++++++++++++++++++++++++
 =================================================
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
