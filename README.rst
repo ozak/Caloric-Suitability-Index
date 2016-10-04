@@ -16,9 +16,9 @@ The CSI indices provide fours estimates of caloric suitability for each cell of 
 
 The **Caloric Suitability Indices** measure the caloric production potential based on agriculture for the Pre-1500CE and Post-1500CE eras as constructed by `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_. The data can be used to assess or account for the exogenous effect of agricultural potential on various economic and social outcomes. An `IPython notebook <https://github.com/ozak/Caloric-Suitability-Index/blob/master/notebooks/Caloric%20and%20Agricultural%20Suitability.ipynb>`_ is included to show how it can be used and also compares it with another measure of agricultural suitability. The data is provided as a service to the academic research community (see license for permitted uses). 
 
-=================================================
+*************************************************
 Download Options for Caloric Suitability Indices
-=================================================
+*************************************************
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
@@ -68,9 +68,9 @@ If you use the data, please cite:
 
 `Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016. <http://ssrn.com/abstract=2820889>`_.
 
-=======================
+***********************
 Additional Information
-=======================
+***********************
 
 `Galor and Özak (2014) <https://ideas.repec.org/p/smu/ecowpa/1407.html>`_ introduce novel measures of potential crop yield measured in calories for the pre-industrial and modern eras. In particular, for each cell of size 5′× 5´ in the world, they estimate the maximum caloric yield and the growth cycle attainable given the set of crops available before and after the Columbian Exchange. Using the same methodology, additional Caloric Suitability Indices (CSI) are introduced here based on the average and maximum caloric yields attainable given the crops available before and after the Columbian Exchange.
 
