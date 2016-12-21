@@ -133,8 +133,8 @@ This data is provided under `Creative Commons Attribution-ShareAlike 4.0 Interna
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
 
 .. |Copyright| image:: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
-                    :height: 9px
-                    :width: 180 px
+                    :height: 45px
+                    :width: 900 px
                     :scale: 60 %
 .. _Copyright: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
