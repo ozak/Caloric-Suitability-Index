@@ -2,7 +2,7 @@ title: Caloric Suitability Index
 description: Oded Galor and Ömer Özak
 google_analytics: UA-48650617-3
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
