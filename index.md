@@ -50,6 +50,12 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
     * [CSV Format](https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv)
 
 ===========================================
+## Caloric Suitability, Growth Cycles and Returns 
+===========================================
+
+* [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVMG1YNmVvaWlWTm8): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in `Galor and Özak (2016) <http://dx.doi.org/10.1257/aer.20150020>`_. The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
+
+===========================================
 ## Plow Potential based on Caloric Suitability
 ===========================================
 
@@ -69,9 +75,29 @@ If you use the data, please cite:
 
 [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889)
 
+========================================
+## Issues
+========================================
+
+Find a bug? Report it via github issues by providing
+
+- a link to download the smallest possible raster and vector dataset necessary to reproduce the error
+- python code or command to reproduce the error
+- information on your environment: versions of python, gdal and numpy and system memory
+
+
+========================================
+## Copyright 
+========================================
+
+This data is provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
+
 =====================
-3 More Information
+## More Information
 =====================
 [Caloric Suitability Index Notebook](http://omerozak.com/csi-ipython)
 
 [HTML version](http://omerozak.com/csi)
+
+![SMU](https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/SMUlogowWordmarkRB.jpg)
+![Brown](https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Brown-Logo_2016_2.png)
