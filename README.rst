@@ -116,15 +116,15 @@ This data is provided under `Creative Commons Attribution-ShareAlike 4.0 Interna
 |Brown|_
 
 
-.. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Logo-SMU-World.gif
-                    :height: 200px
-                    :width: 200 px
-                    :scale: 25 %
+.. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/SMUlogowWordmarkRB.jpg
+                    :height: 400px
+                    :width: 1100 px
+                    :scale: 20 %
 .. _SMU: http://omerozak.com
 
-.. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/brown-logo.png
-                    :height: 100px
-                    :width: 200 px
+.. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Brown-Logo_2016_2.png
+                    :height: 200px
+                    :width: 400 px
                     :scale: 50 %
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
 
