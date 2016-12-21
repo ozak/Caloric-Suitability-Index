@@ -53,7 +53,7 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
 ## Caloric Suitability, Growth Cycles and Returns 
 ===========================================
 
-* [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVMG1YNmVvaWlWTm8): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in `Galor and Özak (2016) <http://dx.doi.org/10.1257/aer.20150020>`_. The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
+* [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVMG1YNmVvaWlWTm8): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in [Galor and Özak (2016)](http://dx.doi.org/10.1257/aer.20150020). The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
 
 ===========================================
 ## Plow Potential based on Caloric Suitability
