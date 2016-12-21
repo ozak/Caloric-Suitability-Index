@@ -48,6 +48,12 @@ Average and Maximum Caloric Suitability
     * `Stata Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta>`_
     * `CSV Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv>`_
 
+================================================
+Caloric Suitability, Growth Cycles and Returns 
+================================================
+
+* `All files (zip) <https://drive.google.com/open?id=0By-h7HPv1NhVMG1YNmVvaWlWTm8>`_: Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in `Galor and Özak (2016) <http://dx.doi.org/10.1257/aer.20150020>`_. The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
+
 ===========================================
 Plow Potential based on Caloric Suitability
 ===========================================
@@ -109,11 +115,9 @@ Find a bug? Report it via github issues by providing
 Copyright 
 ---------
 
-This data is provided under `Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License <https://creativecommons.org/licenses/by-sa/4.0/>`.
+This data is provided under `Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License <https://creativecommons.org/licenses/by-sa/4.0/>`_. |Copyright|_
 
-|Copyright|_
-|SMU|_ 
-|Brown|_
+    |SMU|_ |Brown|_
 
 
 .. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/SMUlogowWordmarkRB.jpg
@@ -129,7 +133,8 @@ This data is provided under `Creative Commons Attribution-ShareAlike 4.0 Interna
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
 
 .. |Copyright| image:: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
-                    :height: 100px
-                    :width: 200 px
+                    :height: 90px
+                    :width: 1800 px
                     :scale: 60 %
 .. _Copyright: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
