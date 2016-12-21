@@ -106,8 +106,12 @@ Find a bug? Report it via github issues by providing
 - information on your environment: versions of python, gdal and numpy and system memory
 
 
+Copyright 
+---------
 
+This data is provided under `Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License <https://creativecommons.org/licenses/by-sa/4.0/>`.
 
+|Copyright|_
 |SMU|_ 
 |Brown|_
 
@@ -123,3 +127,9 @@ Find a bug? Report it via github issues by providing
                     :width: 200 px
                     :scale: 50 %
 .. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
+
+.. |Copyright| image:: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
+                    :height: 100px
+                    :width: 200 px
+                    :scale: 60 %
+.. _Copyright: https://creativecommons.org/licenses/by-sa/4.0/legalcode
