@@ -129,8 +129,8 @@ This data is provided under `Creative Commons Attribution-ShareAlike 4.0 Interna
 .. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Brown-Logo_2016_2.png
                     :height: 20px
                     :width: 40 px
-                    :scale: 50 %
-.. _Brown: http://www.econ.brown.edu/fac/Oded_Galor/
+                    :scale: 5 %
+.. _Brown: http://odedgalor.virb.com
 
 .. |Copyright| image:: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
                     :height: 45px
