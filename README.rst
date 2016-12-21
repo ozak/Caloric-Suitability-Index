@@ -121,16 +121,16 @@ This data is provided under `Creative Commons Attribution-ShareAlike 4.0 Interna
 
 
 .. |SMU| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/SMUlogowWordmarkRB.jpg
-                    :height: 40px
-                    :width: 110 px
+                    :height: 400px
+                    :width: 1100 px
                     :scale: 20 %
 .. _SMU: http://omerozak.com
 
 .. |Brown| image:: https://github.com/ozak/Caloric-Suitability-Index/raw/master/pics/Brown-Logo_2016_2.png
-                    :height: 20px
-                    :width: 40 px
-                    :scale: 5 %
-.. _Brown: http://odedgalor.virb.com
+                    :height: 200px
+                    :width: 400 px
+                    :scale: 50 %
+.. _Brown: http://odedgalor.virb.com/
 
 .. |Copyright| image:: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
                     :height: 45px
