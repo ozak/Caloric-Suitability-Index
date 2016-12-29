@@ -1,5 +1,4 @@
-#Caloric Suitability Index
-==========================
+# Caloric Suitability Index
 
 The suitability of land for agriculture [(Rammankutty, Foley, Norman, and McSweeney, 2001)](http://www.sage.wisc.edu/atlas/maps.php?datasetid=19&includerelatedlinks=1&dataset=19) has become a standard control for the effect of geographical characteristics on comparative economic development.  This measure, however, is rather crude and it does not capture the large variation in the potential caloric yield across equally suitable land.  In particular, geographical regions that according to this measure are comparable in terms of their suitability for agriculture may differ significantly in their potential caloric output per hectare per year, reflecting the fact that land that is suitable for agriculture is not necessarily suitable for the most productive crops in terms of their caloric return.
 
@@ -18,12 +17,10 @@ The **Caloric Suitability Indices** [(Galor and Özak, 2016)](http://dx.doi.org/
 
 
 #Download Options for Caloric Suitability Indices 
-=================================================
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
 ##Average and Maximum Caloric Suitability
-=======================================
 
 * [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ): The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally it includes rasters for the changes in CSI due to the Columbian Exchange.
 
@@ -49,18 +46,15 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
 
 
 ##Caloric Suitability, Growth Cycles and Returns 
-===========================================
 
 * [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVMG1YNmVvaWlWTm8): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in [Galor and Özak (2016)](http://dx.doi.org/10.1257/aer.20150020). The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
 
 ##Plow Potential based on Caloric Suitability
-==========================
 
 * [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVVVVuVVEwVEh1VzQ): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
 
 
 ##Caloric Suitability for Individual Crops
-========================================
 
 * [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVS1I3UXVURExCNjA): Archive contains data on caloric suitability for each crop under low, medium and high input levels, as well as under rain fed and irrigation.
 
@@ -73,7 +67,6 @@ If you use the data, please cite:
 [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889)
 
 #Issues
-========================================
 
 Find a bug? Report it via github issues by providing
 
@@ -82,12 +75,10 @@ Find a bug? Report it via github issues by providing
 - information on your environment: versions of python, gdal and numpy and system memory
 
 #Copyright 
-========================================
 
 This data is provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 
 #More Information
-=====================
 
 [Caloric Suitability Index Notebook](http://omerozak.com/csi-ipython)
 
