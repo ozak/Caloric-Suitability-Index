@@ -25,16 +25,23 @@ The **Caloric Suitability Indices** can be downloaded as a zip file, or individu
 * [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ): The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally it includes rasters for the changes in CSI due to the Columbian Exchange.
 
 * Pre-1500CE:
-    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVeEhsRmdRWkFJX2M)
-    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVcHgxa1EyOEpURUk)
-    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2dDUm5fU2lMN2c)
-    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVUzVDTXBST3d4YlE)
+    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVY1N4aHNMTWphZTQ)
+    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVVTNWR3N6a25DWlk)
+    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR1BTX0V6eUdmTW8)
+    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVQ3FtUTVPcVNGdFk)
+
+* Pre-1500CE (Exclude Asian Varieties in Africa):
+    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVemtGVHNfTDFzNmc)
+    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVYmtaV1g3X0VTV3c)
+    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVbkg4RjBVWFdLV0E)
+    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVTXlCaThJaUJBWTQ)
+
 
 * Post-1500CE:
-    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVT05GNGtaZk13S2M)
-    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVcHVJcmgtb09FTXM)
-    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2ZDemhYd1hqZms)
-    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVajhjbVcyakFYMHc)
+    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVYjJyQVJUUmFkSVE)
+    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVSmd3R3IyeGMzYVE)
+    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVamdlWEtSSlpKOTA)
+    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVRC1BRGhGYkZsOFE)
 
 * Country-level Data:
     * [Stata Format](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVMXlCZHo4UnBGbFU)
