@@ -27,18 +27,18 @@ where
 
 Period is 
 
-* pre1500: Pre-1500 crop based data
-* pre15002: Pre-1500 crop based data excluding Asian crops in Africa
-* post1500: Post-1500 crop based data 
-* dif: Difference between post-1500 and pre-1500
-* dif2: Difference between post-1500 and pre-15002
+* *pre1500*: Pre-1500 crop based data
+* *pre15002*: Pre-1500 crop based data excluding Asian crops in Africa
+* *post1500*: Post-1500 crop based data 
+* *dif*: Difference between post-1500 and pre-1500
+* *dif2*: Difference between post-1500 and pre-15002
 
 Measure is
 
-* Average, Maximum or other statistic of caloric suitability across crops
+* *Average*, *Maximum* or other statistic of caloric suitability across crops
 * For more complex measures it is composed of two parts
- 1. en or inv: Determines the crop choice used, i.e. calories maximizing (en) or return maximizing (inv)
- 2. cycle, return, root: cycles (days), returns (calories/day) and roots (calories^(1/days))
+ * *en* or *inv*: Determines the crop choice used, i.e. calories maximizing (en) or return maximizing (inv)
+ * *cycle*, *return*, *root*: cycles (days), returns (calories/day) and roots (calories^(1/days))
 
 Additionally, the ending of the filename is linked to the inclusion or exclusion of zeros in the ocmputations
 
