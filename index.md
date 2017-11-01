@@ -20,6 +20,32 @@ The **Caloric Suitability Indices** [(Galor and Özak, 2016)](http://dx.doi.org/
 
 The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
 
+## Files follow a simple format:
+**PeriodMeasure.tif**
+
+where 
+
+Period is 
+
+* *pre1500*: Pre-1500 crop based data
+* *pre15002*: Pre-1500 crop based data excluding Asian crops in Africa
+* *post1500*: Post-1500 crop based data 
+* *dif*: Difference between post-1500 and pre-1500
+* *dif2*: Difference between post-1500 and pre-15002
+
+Measure is
+
+* *Average*, *Maximum* or other statistic of caloric suitability across crops
+* For more complex measures it is composed of two parts
+	* *en* or *inv*: Determines the crop choice used, i.e. calories maximizing (en) or return maximizing (inv)
+	* *cycle*, *return*, *root*: cycles (days), returns (calories/day) and roots (calories^(1/days))
+
+Additionally, the ending of the filename is linked to the inclusion or exclusion of zeros in the ocmputations
+
+* XXX.tif includes all crops in the computations, including crops with zero yield
+* XXX0.tif is like XXX.tif, but drops cells with 0 yield
+* XXXNo0.tif is like XXX.tif, but constructs cell statistics excluding crops with zeros in that cell
+
 ## Average and Maximum Caloric Suitability
 
 * [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVM1g5aW81TzVRWjQ): The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally it includes rasters for the changes in CSI due to the Columbian Exchange.
