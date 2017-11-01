@@ -33,6 +33,13 @@ Period is
 * dif: Difference between post-1500 and pre-1500
 * dif2: Difference between post-1500 and pre-15002
 
+Measure is
+
+* Average, Maximum or other statistic of caloric suitability across crops
+* For more complex measures it is composed of two parts
+ 1. en or inv: Determines the crop choice used, i.e. calories maximizing (en) or return maximizing (inv)
+ 2. cycle, return, root: cycles (days), returns (calories/day) and roots (calories^(1/days))
+
 Additionally, the ending of the filename is linked to the inclusion or exclusion of zeros in the ocmputations
 
 * XXX.tif includes all crops in the computations, including crops with zero yield
