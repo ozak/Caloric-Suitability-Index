@@ -18,7 +18,27 @@ The **Caloric Suitability Indices** [(Galor and Özak, 2016)](http://dx.doi.org/
 
 # Download Options for Caloric Suitability Indices 
 
-The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data).
+The **Caloric Suitability Indices** can be downloaded as a zip file, or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this Github repository which contains also an IPython notebook that works with the data). 
+
+## Files follow a simple format:
+**PeriodMeasure.tif**
+
+where 
+
+Period is 
+
+* pre1500: Pre-1500 crop based data
+* pre15002: Pre-1500 crop based data excluding Asian crops in Africa
+* post1500: Post-1500 crop based data 
+* dif: Difference between post-1500 and pre-1500
+* dif2: Difference between post-1500 and pre-15002
+
+Additionally, the ending of the filename is linked to the inclusion or exclusion of zeros in the ocmputations
+
+* XXX.tif includes all crops in the computations, including crops with zero yield
+* XXX0.tif is like XXX.tif, but drops cells with 0 yield
+* XXXNo0.tif is like XXX.tif, but constructs cell statistics excluding crops with zeros in that cell
+
 
 ## Average and Maximum Caloric Suitability
 
