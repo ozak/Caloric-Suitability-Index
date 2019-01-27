@@ -112,7 +112,7 @@ Find a bug? Report it via github issues by providing
 
 This data is provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 
-#More Information
+# More Information
 
 [Caloric Suitability Index Notebook](http://omerozak.com/csi-ipython)
 
