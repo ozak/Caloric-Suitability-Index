@@ -1,0 +1,44 @@
+# Compiled python modules.
+*.pyc
+*.py
+
+# Setuptools distribution folder.
+/dist/
+
+# Setuptools build folder.
+/build/
+
+# Scripts
+/progs/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# Shapefiles
+/data/shapes/
+
+# Tiles 
+/data/post1500AverageCalories/
+
+# Old Tif files
+/data/*rgb*
+/data/*en*.tif
+
+**/*.tif
+**/*.zip
+**/*HMI*
+**/*.aux
+**/*.log
+**/*.out
+**/*.gz
+**/*tex
+**/*old*
+**/*Copy*.ipynb
+**/*v*.html
+!**suit.tif
+!**fac*.tif
+**checkpoint*
+**/*bbl
+**/*blg
+**/*latex*
+**/*fls
