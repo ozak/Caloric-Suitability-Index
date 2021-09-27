@@ -80,16 +80,16 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 
 ## Caloric Suitability, Growth Cycles and Returns 
 
-* [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVR2llMmVjdk9yMFU): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in [Galor and Özak (2016)](http://dx.doi.org/10.1257/aer.20150020). The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
+* [All files (zip)](https://drive.google.com/file/d/0By-h7HPv1NhVR2llMmVjdk9yMFU/view?resourcekey=0-ZasZJSidWqI_vKDdSrPEYw): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in [Galor and Özak (2016)](http://dx.doi.org/10.1257/aer.20150020). The only difference with the CSI rasters above is the constrain imposed by availability of growth cycle data, which constrains the set of crops.
 
 ## Plow Potential based on Caloric Suitability
 
-* [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVTkFqdlNCdkFJVUU): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
+* [All files (zip)](https://drive.google.com/file/d/0By-h7HPv1NhVTkFqdlNCdkFJVUU/view?resourcekey=0-TVuVNVA7BHe9TMJ-_EZr5g): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
 
 
 ## Caloric Suitability for Individual Crops
 
-* [All files (zip)](https://drive.google.com/open?id=0By-h7HPv1NhVOEJHcF92LVE1Z3M): Archive contains data on caloric suitability for each crop under low, medium and high input levels, as well as under rain fed and irrigation.
+* [All files (zip)](https://drive.google.com/file/d/0By-h7HPv1NhVOEJHcF92LVE1Z3M/view?resourcekey=0-uHNJfqPG5MwC3khXGQXs8Q): Archive contains data on caloric suitability for each crop under low, medium and high input levels, as well as under rain fed and irrigation.
 
 If you use the data, please cite: 
 
