@@ -84,7 +84,7 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 
 ## Plow Potential based on Caloric Suitability
 
-* [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVTkFqdlNCdkFJVUU&resourcekey=0-TVuVNVA7BHe9TMJ-_EZr5g): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
+* [All files (zip)](https://drive.google.com/uc?export=download&id=1Lqb7jC75NYVRdvVpUDzPJ7-8DL5OaYfd): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
 
 
 ## Caloric Suitability for Individual Crops
