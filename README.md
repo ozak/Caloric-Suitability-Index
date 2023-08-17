@@ -70,8 +70,8 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
     * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVRC1BRGhGYkZsOFE&resourcekey=0-x-i5uc06MLlZEEQkcfEBvA)
 
 * Country-level Data:
-    * [Stata Format](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVMXlCZHo4UnBGbFU)
-    * [CSV Format](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVbl9oZWpGcTdLclU)
+    * [Stata Format](https://drive.google.com/uc?export=download&id=1i814iIe1GtFGIEd5lK2HnmIvHnYa22xn)
+    * [CSV Format](https://drive.google.com/uc?export=download&id=1i85zveul7OeH-y9SSrWvMpaWEl2aQ8PJ)
 
 * US State-level Data:
     * [Stata Format](https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta)
