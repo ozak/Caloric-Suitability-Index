@@ -41,8 +41,8 @@ Average and Maximum Caloric Suitability
     * `Maximum Calories (No Zeros) <https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVajhjbVcyakFYMHc>`_
 
 * Country-level Data:
-    * `Stata Format <https://drive.google.com/uc?export=download&id=1_GuALJGX90GqfZ0RWx8xXCsZ5Mlo28XF>`
-    * `CSV Format <https://drive.google.com/uc?export=download&id=1_P2tcPPhe5vPzJXl2oOsH5HgxXCes4rf>`
+    * `Stata Format <https://drive.google.com/uc?export=download&id=1_GuALJGX90GqfZ0RWx8xXCsZ5Mlo28XF>`_
+    * `CSV Format <https://drive.google.com/uc?export=download&id=1_P2tcPPhe5vPzJXl2oOsH5HgxXCes4rf>`_
 
 * US State-level Data:
     * `Stata Format <https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta>`_
