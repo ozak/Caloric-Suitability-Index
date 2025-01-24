@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14714916.svg)](https://doi.org/10.5281/zenodo.14714916)
+
 # Caloric Suitability Index
 
 The suitability of land for agriculture [(Rammankutty, Foley, Norman, and McSweeney, 2001)](http://www.sage.wisc.edu/atlas/maps.php?datasetid=19&includerelatedlinks=1&dataset=19) has become a standard control for the effect of geographical characteristics on comparative economic development.  This measure, however, is rather crude and it does not capture the large variation in the potential caloric yield across equally suitable land.  In particular, geographical regions that according to this measure are comparable in terms of their suitability for agriculture may differ significantly in their potential caloric output per hectare per year, reflecting the fact that land that is suitable for agriculture is not necessarily suitable for the most productive crops in terms of their caloric return.
@@ -49,55 +51,63 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 
 ## Average and Maximum Caloric Suitability
 
-* [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVc3RNd010Z09EQVE&resourcekey=0-wWtJSgqWWssGHckOkgjzaQ): The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally, it includes rasters for the changes in CSI due to the Columbian Exchange.
+* [All files (zip)](https://zenodo.org/records/14714917/files/CaloricSuitabilityIndex.zip?download=1): The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally, it includes rasters for the changes in CSI due to the Columbian Exchange.
 
 * Pre-1500CE:
-    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVY1N4aHNMTWphZTQ&resourcekey=0-BHnuZSrjVPTznK71ms9LDw)
-    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVVTNWR3N6a25DWlk&resourcekey=0-jVV509iDtkoLEkvl9H5_5w)
-    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR1BTX0V6eUdmTW8&resourcekey=0-7-oOUj8ldKwWSmnieI4oog)
-    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVQ3FtUTVPcVNGdFk&resourcekey=0-50zFYCz1hj7H55S0VQwStg)
+    * [Average Calories](https://zenodo.org/records/14714917/files/pre1500AverageCalories.tif?download=1)
+    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre1500AverageCalories0.tif?download=1)
+    * [Maximum Calories](https://zenodo.org/records/14714917/files/pre1500MaximumCalories.tif?download=1)
+    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre1500MaximumCalories0.tif?download=1)
 
 * Pre-1500CE (Exclude Asian Varieties in Africa):
-    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVemtGVHNfTDFzNmc&resourcekey=0-nCappUTCjfTUms9rdcgY0g)
-    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVYmtaV1g3X0VTV3c&resourcekey=0-MBxswksJUN97dx1lqhDm6w)
-    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVbkg4RjBVWFdLV0E&resourcekey=0-kUe35gnzU4YX8BNIF5Uaqg)
-    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVTXlCaThJaUJBWTQ&resourcekey=0-Cc0m8YIooV7C7wQQRkc1FA)
+    * [Average Calories](https://zenodo.org/records/14714917/files/pre15002AverageCalories.tif?download=1)
+    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre15002AverageCalories0.tif?download=1)
+    * [Maximum Calories](https://zenodo.org/records/14714917/files/pre15002MaximumCalories.tif?download=1)
+    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre15002MaximumCalories0.tif?download=1)
 
 * Post-1500CE:
-    * [Average Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVYjJyQVJUUmFkSVE&resourcekey=0-VFDVAhFk6nj5viwtYqA5QQ)
-    * [Average Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVSmd3R3IyeGMzYVE&resourcekey=0-_AFEd2at8A-2QVWzeqYIGw)
-    * [Maximum Calories](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVamdlWEtSSlpKOTA&resourcekey=0-nWBun0NiYSnYDCH_N2tr-w)
-    * [Maximum Calories (No Zeros)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVRC1BRGhGYkZsOFE&resourcekey=0-x-i5uc06MLlZEEQkcfEBvA)
+    * [Average Calories](https://zenodo.org/records/14714917/files/post1500AverageCalories.tif?download=1)
+    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/post1500AverageCalories0.tif?download=1)
+    * [Maximum Calories](https://zenodo.org/records/14714917/files/post1500MaximumCalories.tif?download=1)
+    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/post1500MaximumCalories0.tif?download=1)
 
 * Country-level Data:
-    * [Stata Format](https://drive.google.com/uc?export=download&id=1_GuALJGX90GqfZ0RWx8xXCsZ5Mlo28XF)
-    * [CSV Format](https://drive.google.com/uc?export=download&id=1_P2tcPPhe5vPzJXl2oOsH5HgxXCes4rf)
+    * [Stata Format](https://zenodo.org/records/14714917/files/country_Calories_stats_web.dta?download=1)
+    * [CSV Format](https://zenodo.org/records/14714917/files/country_Calories_stats_web.csv?download=1)
 
 * US State-level Data:
-    * [Stata Format](https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.dta)
-    * [CSV Format](https://raw.githubusercontent.com/ozak/Caloric-Suitability-Index/master/data/USStates/US_States_CSI.csv)
+    * [Stata Format](https://zenodo.org/records/14714917/files/US_States_CSI.dta?download=1)
+    * [CSV Format](https://zenodo.org/records/14714917/files/US_States_CSI.csv?download=1)
 
 
 ## Caloric Suitability, Growth Cycles, and Returns 
 
-* [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVR2llMmVjdk9yMFU&resourcekey=0-ZasZJSidWqI_vKDdSrPEYw): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This is the original data used in [Galor and Özak (2016)](http://dx.doi.org/10.1257/aer.20150020). The only difference with the CSI rasters above is the constraint imposed by the availability of growth cycle data, which constrains the set of crops.
+* [All files (zip)](https://zenodo.org/records/14714917/files/ALL-CSI-Returns-Cycles.zip?download=1): Archive contains data on pre- and post-1500CE CSI, growth cycle and daily returns as well as their changes due to the Columbian Exchange. This updates the data used in [Galor and Özak (2016)](http://dx.doi.org/10.1257/aer.20150020). The only difference with the CSI rasters above is the constraint imposed by the availability of growth cycle data, which constrains the set of crops.
 
 ## Plow Potential based on Caloric Suitability
 
-* [All files (zip)](https://drive.google.com/uc?export=download&id=1Lqb7jC75NYVRdvVpUDzPJ7-8DL5OaYfd): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange.
+* [All files (zip)](https://zenodo.org/records/14714917/files/PlowCSI.zip?download=1): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange as introduced in [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889).
 
 
 ## Caloric Suitability for Individual Crops
 
-* [All files (zip)](https://drive.google.com/uc?export=download&id=0By-h7HPv1NhVOEJHcF92LVE1Z3M&resourcekey=0-uHNJfqPG5MwC3khXGQXs8Q): Archive contains data on caloric suitability for each crop under low, medium and high input levels, as well as under rain-fed and irrigation.
+* [All files (zip)](https://zenodo.org/records/14714917/files/CropCSI.zip?download=1): Archive contains data on caloric suitability for each crop under low, medium and high input levels, as well as under rain-fed and irrigation.
 
-If you use the data, please cite: 
+## Citation
 
-[Oded Galor and Ömer Özak, 2016. "The Agricultural Origins of Time Preference," American Economic Review, 2016, 106(10): 3064–3103.](http://dx.doi.org/10.1257/aer.20150020)
+If you use the any of the CSI data, please cite: 
 
-[Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper.](http://papers.ssrn.com/abstract=2625180)
+* [Oded Galor and Ömer Özak, 2016. "The Agricultural Origins of Time Preference," American Economic Review, 2016, 106(10): 3064–3103.](http://dx.doi.org/10.1257/aer.20150020)
 
-[Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889)
+* [Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper.](http://papers.ssrn.com/abstract=2625180)
+
+* [Özak, Ö. (2015). Caloric Suitability Index - Data (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14714917](https://doi.org/10.5281/zenodo.14714917)
+
+If you use the plow suitability data, please also cite:
+
+* [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889)
+
+You can use this [BibTeX file](./CSI.bib).
 
 # Issues
 
@@ -112,6 +122,8 @@ Find a bug? Report it via GitHub issues by providing
 This data is provided under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). ![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 
 # More Information
+
+[GIS with Python - Rasters Data](https://econgrowth.github.io/GIS%20with%20Python%202.html) [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/GIS-with-Python-2.ipynb) [(Deepnote)](https://deepnote.com/workspace/econgrowth-34c88c5e-0857-410d-8322-56214a551bdf/project/3-GIS-with-Python-Rasters-7a3684ea-c271-47fb-a818-6ef4755e5b7c/notebook/GIS%20with%20Python%202-7827f860f15e449088b431b97198054c)
 
 [Caloric Suitability Index Notebook](http://omerozak.com/csi-ipython)
 
