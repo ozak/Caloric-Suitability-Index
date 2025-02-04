@@ -86,7 +86,7 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 
 ## Plow Potential based on Caloric Suitability
 
-* [All files (zip)](https://zenodo.org/records/14714917/files/PlowCSI.zip?download=1): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange as introduced in [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889).
+* [All files (zip)](https://zenodo.org/records/14714917/files/PlowCSI.zip?download=1): Archive contains data on pre- and post-1500CE plow positive CSI, plow negative CSI, plow potential based on CSI as well as their changes due to the Columbian Exchange as introduced in [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016](http://ssrn.com/abstract=2820889).
 
 
 ## Caloric Suitability for Individual Crops
@@ -95,7 +95,7 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 
 ## Citation
 
-If you use the any of the CSI data, please cite: 
+If you use any of the CSI data, please cite: 
 
 * [Oded Galor and Ömer Özak, 2016. "The Agricultural Origins of Time Preference," American Economic Review, 2016, 106(10): 3064–3103.](http://dx.doi.org/10.1257/aer.20150020)
 
