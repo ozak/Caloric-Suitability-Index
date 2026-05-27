@@ -37,7 +37,7 @@ Given human rationality and the trial and error that occurred in human history, 
 Using this method, the CSI provides an accurate representation of the crops that dominated each region of the world, namely, wheat and barley in Europe, rice in Asia, maize in the Americas, and millet and sorghum in Africa. 
 
 <p align="center">
-<img width="1280" height="515" alt="image" src="https://github.com/user-attachments/assets/db982c23-13d9-46fd-b566-ac2742b5ccce" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/db982c23-13d9-46fd-b566-ac2742b5ccce" />
 </p>
 
 [Galor and Özak (2015)](http://papers.ssrn.com/abstract=2625180) show that **CSI** is a good  predictor of population density during the Malthusian period, improving over Ramankutty et al (2001).
@@ -47,7 +47,7 @@ Using this method, the CSI provides an accurate representation of the crops that
 If, instead, one were to not adjust for post-harvest spoilage, i.e., use wet-weight instead of dry-weight yields for each crop, the caloric potentials and the ranking of crops would generate, nonsensically, that onions and carrots would be the dominant crops across continents in both the pre-1500 and post-1500 periods. 
 
 <p align="center">
-<img width="1280" height="515" alt="image" src="https://github.com/user-attachments/assets/ce68cae4-497e-473f-a22d-07717e02fb3e" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/ce68cae4-497e-473f-a22d-07717e02fb3e" />
 </p>
 
 Moreover, the proposed water-adjusted modified measure performs poorly relative to the **CSI** baseline measure in explaining population density in the pre-industrial world over the past 1000 years--a natural validation benchmark for any proxy of agricultural productivity (Galor and Özak, 2026). 
