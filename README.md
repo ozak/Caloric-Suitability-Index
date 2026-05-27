@@ -47,7 +47,7 @@ Using this method, the CSI provides an accurate representation of the crops that
 If, instead, one were to not adjust for post-harvest spoilage, i.e., use wet-weight instead of dry-weight yields for each crop, the caloric potentials and the ranking of crops would generate, nonsensically, that onions and carrots would be the dominant crops across continents in both the pre-1500 and post-1500 periods. 
 
 <p align="center">
-<img width="5640" height="2278" alt="image" src="https://github.com/user-attachments/assets/ce68cae4-497e-473f-a22d-07717e02fb3e" />
+<img width="1280" height="515" alt="image" src="https://github.com/user-attachments/assets/ce68cae4-497e-473f-a22d-07717e02fb3e" />
 </p>
 
 Moreover, the proposed water-adjusted modified measure performs poorly relative to the **CSI** baseline measure in explaining population density in the pre-industrial world over the past 1000 years--a natural validation benchmark for any proxy of agricultural productivity (Galor and Özak, 2026). 
