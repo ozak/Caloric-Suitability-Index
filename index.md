@@ -158,7 +158,7 @@ If you use any of the CSI data, please cite:
 
 If you use the plow suitability data, please also cite:
 
-* [Galor, Oded, Ömer Özak and Assaf Sarid, "Geographical Origins and Economic Consequences of Language Structures" Brown University Working Paper, 2016.](http://ssrn.com/abstract=2820889)
+* [Galor, Oded, Ömer Özak and Assaf Sarid, "Roots of Cultural and Linguistic Traits" The Economic Journal, ueaf117, 2025](https://doi.org/10.1093/ej/ueaf117)
 
 You can use this [BibTeX file](./CSI.bib).
 
