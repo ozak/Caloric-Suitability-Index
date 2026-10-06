@@ -67,7 +67,6 @@ The CSI indices provide four estimates of caloric suitability for each cell of s
 
 The **Caloric Suitability Indices** [(Galor and Özak, 2016)](http://dx.doi.org/10.1257/aer.20150020) captures the potential agricultural output (measured in calories) based on crops that were available for cultivation in the Pre-1500CE and Post-1500CE eras.  It is available for 5’ by 5’ grid cells and at the country level. The data can be used to assess or account for the exogenous effect of agricultural potential on various economic and social outcomes. The data can be used to assess or account for the exogenous effect of agricultural potential on various economic and social outcomes. An [IPython notebook](https://github.com/ozak/Caloric-Suitability-Index/blob/master/notebooks/Caloric%20and%20Agricultural%20Suitability.ipynb) is included to show how it can be used and also compares it with another measure of agricultural suitability. The data is provided as a service to the academic research community (see license for permitted uses). 
 
-
 # Download Options for Caloric Suitability Indices 
 
 The **Caloric Suitability Indices** can be downloaded as a zip file or individually. They come in GeoTiff format and WGS84 projection. Use the links below to download (or you can fork this GitHub repository, which also contains an IPython notebook that works with the data). 
@@ -103,23 +102,23 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 
 * [All files (zip)](https://zenodo.org/records/14714917/files/CaloricSuitabilityIndex.zip?download=1): The zipfile contains additional versions not downloadable individually. In particular, it includes CSI excluding Asian crop varieties in Africa pre-1500CE. Additionally, it includes rasters for the changes in CSI due to the Columbian Exchange.
 
-* Pre-1500CE:
-    * [Average Calories](https://zenodo.org/records/14714917/files/pre1500AverageCalories.tif?download=1)
-    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre1500AverageCalories0.tif?download=1)
-    * [Maximum Calories](https://zenodo.org/records/14714917/files/pre1500MaximumCalories.tif?download=1)
-    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre1500MaximumCalories0.tif?download=1)
-
-* Pre-1500CE (Exclude Asian Varieties in Africa):
-    * [Average Calories](https://zenodo.org/records/14714917/files/pre15002AverageCalories.tif?download=1)
-    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre15002AverageCalories0.tif?download=1)
-    * [Maximum Calories](https://zenodo.org/records/14714917/files/pre15002MaximumCalories.tif?download=1)
-    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre15002MaximumCalories0.tif?download=1)
-
 * Post-1500CE:
-    * [Average Calories](https://zenodo.org/records/14714917/files/post1500AverageCalories.tif?download=1)
-    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/post1500AverageCalories0.tif?download=1)
+    * **[Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/post1500MaximumCalories0.tif?download=1) (Remommended)** 
     * [Maximum Calories](https://zenodo.org/records/14714917/files/post1500MaximumCalories.tif?download=1)
-    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/post1500MaximumCalories0.tif?download=1)
+    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/post1500AverageCalories0.tif?download=1)
+    * [Average Calories](https://zenodo.org/records/14714917/files/post1500AverageCalories.tif?download=1)
+
+* Pre-1500CE:
+    * **[Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre1500MaximumCalories0.tif?download=1) (Remommended)**
+	* [Maximum Calories](https://zenodo.org/records/14714917/files/pre1500MaximumCalories.tif?download=1)
+    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre1500AverageCalories0.tif?download=1)
+    * [Average Calories](https://zenodo.org/records/14714917/files/pre1500AverageCalories.tif?download=1)
+    
+* Pre-1500CE (Exclude Asian Varieties in Africa):
+    * [Maximum Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre15002MaximumCalories0.tif?download=1)
+    * [Maximum Calories](https://zenodo.org/records/14714917/files/pre15002MaximumCalories.tif?download=1)
+    * [Average Calories (No Zeros)](https://zenodo.org/records/14714917/files/pre15002AverageCalories0.tif?download=1)
+    * [Average Calories](https://zenodo.org/records/14714917/files/pre15002AverageCalories.tif?download=1)
 
 * Country-level Data:
     * [Stata Format](https://zenodo.org/records/14714917/files/country_Calories_stats_web.dta?download=1)
@@ -144,7 +143,7 @@ Additionally, the ending of the filename is linked to the inclusion or exclusion
 * [All files (zip)](https://zenodo.org/records/14714917/files/CropCSI.zip?download=1): Archive contains data on caloric suitability for each crop under low, medium, and high input levels, as well as under rain-fed and irrigation.
 
 ## Non-Sensical CSI (Water-Adjusted)
-* [All files (zip)](https://zenodo.org/records/20417587/files/CSI-Returns-Cycles-Water.zip?download=1): Archive contains data on caloric suitability for each crop under low, medium, and high input levels, as well as under rain-fed and irrigation, assuming no post-harvest spoilage, i.e., adjusting for water content.
+* [All files (zip)](https://zenodo.org/records/20417587/files/CSI-Returns-Cycles-Water.zip?download=1): Archive contains data on caloric suitability for each crop under low input levels and rain-fed, assuming no post-harvest spoilage, i.e., adjusting for water content.
 
 ## Citation
 
@@ -154,7 +153,7 @@ If you use any of the CSI data, please cite:
 
 * [Oded Galor and Ömer Özak, 2015. "Land Productivity and Economic Development: Caloric Suitability vs. Agricultural Suitability," Brown University Working Paper.](http://papers.ssrn.com/abstract=2625180)
 
-* [Özak, Ö. (2015). Caloric Suitability Index - Data (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14714917](https://doi.org/10.5281/zenodo.14714917)
+* [Oded Galor and Ömer Özak (2015). Caloric Suitability Index - Data (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14714917](https://doi.org/10.5281/zenodo.14714917)
 
 If you use the plow suitability data, please also cite:
 
